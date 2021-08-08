@@ -3,6 +3,6 @@ using namespace std;
 
 int main() {
     char str[] = "Ola C++";
-    cout << "O Valor de str e: " << str << end;
+    cout << "O valor de str e: " << str << endl;
     return 0;
 }
